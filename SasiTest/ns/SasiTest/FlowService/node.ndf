@@ -34,7 +34,8 @@
       <value name="modifiable">true</value>
     </record>
   </record>
-  <value name="node_comment">Step1</value>
+  <value name="node_comment">Step1
+Step2</value>
   <value name="stateless">yes</value>
   <value name="caching">no</value>
   <value name="prefetch">no</value>
